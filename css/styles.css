@@ -120,6 +120,10 @@
     color: #404BBF;
 }
 
+.hero-btn {
+    cursor: pointer;
+}
+
 /* features */
 .features-slogan {
     font-family: 'Roboto';

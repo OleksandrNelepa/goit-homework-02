@@ -16,7 +16,6 @@
 
 .logo {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33
@@ -29,7 +28,6 @@
 
 .logo-web {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33
@@ -42,7 +40,6 @@
 
 .header-link {
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5
@@ -56,7 +53,6 @@
 
 .mail {
     font-family: 'Roboto';
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5
     letter-spacing: 0.02em;
@@ -69,7 +65,6 @@
 
 .tel {
     font-family: 'Roboto';
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5
     letter-spacing: 0.02em;
@@ -84,7 +79,6 @@
 
 .btn {
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.50
@@ -95,13 +89,16 @@
     color: #4D5AE5;
 }
 
+.btn {
+    cursor: pointer;
+}
+
 .btn:is(:hover, :focus) {
     color: #404BBF;
 }
 
 .hero-slogan {
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.20
@@ -111,7 +108,6 @@
 
 .hero-text {
     font-family: 'Roboto';
-    font-style: normal;
     font-size: 16px;
     line-height: 1.50
     letter-spacing: 0.02em;
@@ -124,7 +120,6 @@
 
 .logo-footer {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.16
@@ -137,7 +132,6 @@
 
 .footer-text {
     font-family: 'Roboto';
-    font-style: normal;
     font-size: 16px;
     line-height: 1.50
     letter-spacing: 0.02em;

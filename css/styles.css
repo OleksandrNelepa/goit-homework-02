@@ -43,9 +43,9 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 16 px;
     line-height: 1.5
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #2E2F42
 }
 
@@ -60,9 +60,9 @@
 .header-mail {
     font-family: 'Roboto';
     font-style: normal;
-    font-size: 16px;
+    font-size: 16 px;
     line-height: 1.5
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #434455
 }
 
@@ -73,9 +73,9 @@
 .header-tel {
     font-family: 'Roboto';
     font-style: normal;
-    font-size: 16px;
+    font-size: 16 px;
     line-height: 1.5
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #434455
 }
 
@@ -93,10 +93,10 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 56px;
+    font-size: 56 px;
     line-height: 1.07
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #FFFFFF;
 }
 
@@ -104,7 +104,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 16 px;
     line-height: 1.5
     display: flex;
     align-items: center;
@@ -129,18 +129,18 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 20 px;
     line-height: 1.2
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #2E2F42;
 }
 
 .features-desc {
     font-family: 'Roboto';
     font-style: normal;
-    font-size: 16px;
+    font-size: 16 px;
     line-height: 1.5
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #434455;
 }
 
@@ -150,10 +150,10 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 36px;
+    font-size: 36 px;
     line-height: 1.11
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     text-transform: capitalize;
     color: #2E2F42
 }
@@ -164,10 +164,10 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 36px;
+    font-size: 36 px;
     line-height: 1.11
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     text-transform: capitalize;
     color: #2E2F42;
 }
@@ -176,20 +176,20 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 20 px;
     line-height: 1.20
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #2E2F42;
 }
 
 .profession {
     font-family: 'Roboto';
     font-style: normal;
-    font-size: 16px;
+    font-size: 16 px;
     line-height: 1.50
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #434455;
 }
 
@@ -203,11 +203,11 @@
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
-    font-size: 18px;
+    font-size: 18 px;
     line-height: 1.16
     display: flex;
     align-items: center;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.03 em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
@@ -216,11 +216,11 @@
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
-    font-size: 18px;
+    font-size: 18 px;
     line-height: 1.16
     display: flex;
     align-items: center;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.03 em;
     text-transform: uppercase;
     color: #F4F4FD;
 }
@@ -229,8 +229,8 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 16 px;
     line-height: 1.50
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02 em;
     color: #E7E9FC;
 }
